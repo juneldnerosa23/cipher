@@ -1,0 +1,11 @@
+Planning and designing the process took me around around 2hours while on vacation.
+I was thinking a very straight forward solution based on the logic specified.
+
+As I started implementing what I formulated in my mind, I did trial and error with python list to 
+support negative and positive input. It took me around  4hrs on and off.
+
+I enountered several bugs along the way with negative and positive input when entering 20+ number.
+So I did debugging and resolved error. Debugging/Fixing bugs took like around 1hr.
+
+Direct subsitution is a bit easy so it doesn't take so long.
+I created the test cases after to make sure everything works as expected.
